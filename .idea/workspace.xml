@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e093e0d-cb30-4b22-9191-0890cf9f4581" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zdj8Cr0rQJzxZnOtvJTgH8PIsi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manis\IdeaProjects\HybridModel\src\test\resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest." type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="HybridModel" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webTest1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webTest1" />
+      <option name="MAIN_CLASS_NAME" value="webTest1.RunTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e093e0d-cb30-4b22-9191-0890cf9f4581" name="Default Changelist" comment="" />
+      <created>1585175703181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585175703181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="97" key="#RunTest" timestamp="1585179412062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="68" key="#RunTest." timestamp="1585179812154">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="397" y="68" key="#RunTest./0.0.1600.860@0.0.1600.860" timestamp="1585179812154" />
+    <state x="397" y="97" key="#RunTest/0.0.1600.860@0.0.1600.860" timestamp="1585179412062" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585179804272">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1585179804272" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1585180144157">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585180144157" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1585180144157">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585180144157" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1585180144157">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585180144157" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1585180144157">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585180144157" />
+    <state x="552" y="351" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585178077295">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="552" y="351" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1585178077295" />
+  </component>
+</project>
